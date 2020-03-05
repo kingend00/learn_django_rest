@@ -1,4 +1,4 @@
-#!/var/www/html/learn_django/env/bin/python3
+#!/var/www/html/Study/learn_django_rest/env/bin/python3
 
 # -*- coding: utf-8 -*-
 import re
